@@ -1,0 +1,10 @@
+com\java\fundamentals\inventory\app\junio\entities\Item.class
+com\java\fundamentals\inventory\app\junio\entities\Product.class
+com\java\fundamentals\inventory\app\junio\repositories\impl\StoreRepositoryImpl.class
+com\java\fundamentals\inventory\app\junio\entities\Inventory.class
+com\java\fundamentals\inventory\app\junio\repositories\StoreRepository.class
+com\java\fundamentals\inventory\app\junio\repositories\services\StoreService.class
+com\java\fundamentals\inventory\app\junio\repositories\services\impl\StoreServiceImpl.class
+com\java\fundamentals\inventory\app\junio\entities\Supplier.class
+com\java\fundamentals\inventory\app\junio\client\InventoryManager.class
+com\java\fundamentals\inventory\app\junio\entities\Store.class
